@@ -1,3 +1,5 @@
+//TERMINADO
+
 const alumns = [
     {name: 'Pepe Viruela', T1: false, T2: false, T3: true}, 
 	{name: 'Lucia Aranda', T1: true, T2: false, T3: true},

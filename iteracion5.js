@@ -1,3 +1,4 @@
+//TERMINADO
 const placesToTravel = 
 [{id: 5, name: 'Japan'},
 {id: 11, name: 'Venecia'}, 

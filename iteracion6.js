@@ -1,14 +1,14 @@
+//TERMINADO
 const toys= [
+    {id: 40, name: "El gato felix"},
     {id: 5, name: "Buzz Year"},
-    {id: 40, name: "Gato felix"},
-    {id: 40, name: "Gato con guantes"},
     {id: 11, name: "Action mann"},
-    {id: 23, name: "Barbie mann"}
-    
+    {id: 40, name: "El gato con guantes"},
+    {id: 23, name: "Barbie mann"}  
 ]
 
 for(let i=toys.length-1; i>=0; i--){
-    if(toys[i].name.includes("Gato")){
+    if(toys[i].name.includes("gato")){
         toys.splice(i,1);
     }
 }

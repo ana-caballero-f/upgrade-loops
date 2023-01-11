@@ -1,3 +1,4 @@
+//TERMINADO
 const popularToys = [];
 const toys = [
 	{id: 5, name: 'Buzz MyYear', sellCount: 10}, 
